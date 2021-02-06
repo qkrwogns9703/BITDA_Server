@@ -48,5 +48,5 @@
     <div>👨🏻‍🎨  이동환 (Front-end)</div><br/>
     <div>📧  email :  <a href='mailto:dawa9293@gmail.com '>dawa9293@gmail.com</a></div><br/>
     <div>🐱  git : <a href='https://github.com/dawa93'>https://github.com/dawa93</a></div>
-  </li>
+  </li> 
 </ul>
